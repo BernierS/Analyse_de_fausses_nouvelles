@@ -1,1 +1,2 @@
-# Analyse_de_fausses_nouvelles
+# Analyse de fausses nouvelles
+Ce projet est présenté par Samuel Bernier et Vincent Patry dans le cadre du projet synthèse du baccalauréat en informatique à l'Université du Québec en Outaouais (UQO). L'objectif de ce projet est d'implémenter l'algorithme BERT à des fins de détections de fausses nouvelles en rapport à la Covid-19. Ce présent répertoire sert de démontrastion de notre implémentation et a pour but d'offrir suffisamment de détails afin que quiconque soit en mesure d'utiliser notre code. Les détails de notre rapport final, incluant toutes les sources utilisées, ainsi que le code source se trouvent dans ce répertoire GitHub. 
